@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1587245410 source:c:\users\ni\documents\c++programme\viergewinnt\main.cpp
+	<iostream>
+	<algorithm>
+	<Board.h>
+
+1587148046 source:c:\users\ni\documents\c++programme\viergewinnt\src\player.cpp
+	"Player.h"
+
+1587142893 c:\users\ni\documents\c++programme\viergewinnt\include\player.h
+	<iostream>
+
+1587242366 source:c:\users\ni\documents\c++programme\viergewinnt\src\user.cpp
+	"User.h"
+
+1587142893 c:\users\ni\documents\c++programme\viergewinnt\include\user.h
+	<Player.h>
+
+1587246858 source:c:\users\ni\documents\c++programme\viergewinnt\src\compdiff.cpp
+	"CompDiff.h"
+	<cstdlib>
+	<ctime>
+
+1587142893 c:\users\ni\documents\c++programme\viergewinnt\include\compdiff.h
+	<Player.h>
+
+1587243257 source:c:\users\ni\documents\c++programme\viergewinnt\src\compeasy.cpp
+	"CompEasy.h"
+	<cstdlib>
+	<ctime>
+
+1587142893 c:\users\ni\documents\c++programme\viergewinnt\include\compeasy.h
+	<Player.h>
+
+1587551736 source:c:\users\ni\documents\c++programme\viergewinnt\src\board.cpp
+	"Board.h"
+	<iostream>
+	<algorithm>
+	<User.h>
+	<CompEasy.h>
+	<CompDiff.h>
+
+1587551736 c:\users\ni\documents\c++programme\viergewinnt\include\board.h
+	<Player.h>
+
