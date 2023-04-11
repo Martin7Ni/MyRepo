@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1591131708 source:c:\users\ni\documents\c++programme\flottenkampf\main.cpp
+	<iostream>
+
+1591115050 source:c:\users\ni\documents\c++programme\flottenkampf\src\player.cpp
+	"Player.h"
+
+1591133573 c:\users\ni\documents\c++programme\flottenkampf\include\player.h
+	<iostream>
+	<exception>
+
+1591131652 source:c:\users\ni\documents\c++programme\flottenkampf\src\user.cpp
+	"User.h"
+
+1591131592 c:\users\ni\documents\c++programme\flottenkampf\include\user.h
+	<Player.h>
+
