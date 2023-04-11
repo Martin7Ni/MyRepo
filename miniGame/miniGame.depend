@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1585563058 source:c:\users\ni\documents\c++programme\minigame\main.cpp
+	<iostream>
+	"fighter.h"
+	"fighterD.h"
+	"fighterH.h"
+	"stdlib.h"
+
+1584839592 c:\users\ni\documents\c++programme\minigame\include\fighter.h
+	<iostream>
+
+1584839673 source:c:\users\ni\documents\c++programme\minigame\src\fighter.cpp
+	"fighter.h"
+	<iostream>
+
+1584835733 source:c:\users\ni\documents\c++programme\minigame\src\fighterd.cpp
+	"fighterD.h"
+
+1584834701 c:\users\ni\documents\c++programme\minigame\include\fighterd.h
+	<fighter.h>
+
+1584839403 source:c:\users\ni\documents\c++programme\minigame\src\fighterh.cpp
+	"fighterH.h"
+
+1584835599 c:\users\ni\documents\c++programme\minigame\include\fighterh.h
+	<fighter.h>
+
