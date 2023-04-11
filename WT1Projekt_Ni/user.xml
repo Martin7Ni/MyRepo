@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" ?>
+<userlist>
+    <user type="user">
+        <username>rudi</username>
+        <password>rudipw</password>
+        <firstname>Rudi</firstname>
+        <lastname>Mustermann</lastname>
+    </user>
+    <user type="user">
+        <username>heidi</username>
+        <password>heidipwd</password>
+        <firstname>Heidi</firstname>
+        <lastname>Musterfrau</lastname>
+    </user>
+    <user type="admin">
+        <username>admin</username>
+        <password>admin</password>
+        <firstname>Max</firstname>
+        <lastname>Musteradmin</lastname>
+    </user>
+</userlist>

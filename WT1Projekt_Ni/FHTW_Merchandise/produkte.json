@@ -1,0 +1,43 @@
+[{
+  "id":1,
+  "titel":"FHTW Sackerl",
+  "bild": "bag.jpg",
+  "beschreibung":"Tr&auml;gt alles, was wichtig ist - besonders rei&szlig;fest",
+  "preis":0.50
+},{
+  "id":2,
+  "titel":"BaseCap",
+  "bild": "cap.jpg",
+  "beschreibung":"Das FHTW Basecap ist in der Gr&ouml;&szlig;e flexibel verstellbar und in modischem Schwarz gehalten",
+  "preis":29.90
+},{
+  "id":3,
+  "titel":"Kugelschreiber",
+  "bild": "kuli.jpg",
+  "beschreibung":"Der FHTW Kugelschreiber aus dem Programm zur F&ouml;rderung weiblicher Studierender",
+  "preis":2.99
+},{
+  "id":4,
+  "titel":"Sweater&Rucksack",
+  "bild": "Sweater_Rucksack.jpg",
+  "beschreibung":"der Hingucker - in der Kombi besonders attraktiv",
+  "preis":59.90
+},{
+  "id":5,
+  "titel":"T-Shirt neutral ",
+  "bild": "TShirt1.jpg",
+  "beschreibung":"ganz in schwarz, mit dem FHTW Schriftzug auf Brusth&ouml;he",
+  "preis":9.90
+},{
+  "id":6,
+  "titel":"T-Shirt Damen rot",
+  "bild": "TShirt2.jpg",
+  "beschreibung":"Weiblicher Schnitt, in bunten Farben",
+  "preis":9.90
+},{
+  "id":7,
+  "titel":"T-Shirt 2016",
+  "bild": "TShirt2016.jpg",
+  "beschreibung":"Es sind noch Restst&uuml;cke zu einem verg&uuml;nstigten Preis verf&uuml;gbar",
+  "preis":7.90
+}]

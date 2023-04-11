@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /FHTW_Merchandise
+Disallow: /user.xml
