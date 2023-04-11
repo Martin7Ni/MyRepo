@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1592236125 source:c:\users\ni\documents\c++programme\dungeoncrawler\main.cpp
+	<iostream>
+	"Player.h"
+	"Field.h"
+
+1590444079 source:c:\users\ni\documents\c++programme\dungeoncrawler\src\field.cpp
+	"Field.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1590426419 c:\users\ni\documents\c++programme\dungeoncrawler\include\field.h
+	<Player.h>
+
+1590444155 source:c:\users\ni\documents\c++programme\dungeoncrawler\src\player.cpp
+	"Player.h"
+	<iostream>
+	<time.h>
+	<stdexcept>
+
+1590426161 c:\users\ni\documents\c++programme\dungeoncrawler\include\player.h
+
