@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1592314959 source:c:\users\ni\documents\c++programme\pingpong\main.cpp
+	<iostream>
+	<stdexcept>
+	<stdlib.h>
+	<time.h>
+	"IPlayer.h"
+	"PlayerA.h"
+	"PlayerB.h"
+
+1592315095 source:c:\users\ni\documents\c++programme\pingpong\src\iplayer.cpp
+	"IPlayer.h"
+	<cstdlib>
+
+1592315079 c:\users\ni\documents\c++programme\pingpong\include\iplayer.h
+	<iostream>
+	<stdlib.h>
+	<stdexcept>
+	<time.h>
+
+1592316045 source:c:\users\ni\documents\c++programme\pingpong\src\playera.cpp
+	"PlayerA.h"
+
+1592312510 c:\users\ni\documents\c++programme\pingpong\include\playera.h
+	<IPlayer.h>
+
+1592316045 source:c:\users\ni\documents\c++programme\pingpong\src\playerb.cpp
+	"PlayerB.h"
+
+1592313881 c:\users\ni\documents\c++programme\pingpong\include\playerb.h
+	<IPlayer.h>
+
