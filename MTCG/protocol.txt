@@ -1,0 +1,15 @@
+technical steps:
+I completely leant on the example we discusses in the class.
+Expect for the Battlemechanic.
+There I used the singletonpattern so that two users can fight together.
+Kinda like a lobby where the first user has to wait till a second player wants to fight.
+For trading I used the database to store a card if a player wants to trade it till a second player wants this card.
+The rest is like in the example from the class.
+
+unit tests:
+For the unit-tests I tried to test methods where the outcome has to be working once and the second time where it doesn't work.
+But for some methods it's not really possible to have an negative outcome.
+
+time:
+about 50h
+
